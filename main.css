@@ -1,0 +1,18 @@
+.btn-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+button{
+    width: 100px;
+    height: 100px;
+}
+.input{
+    height: 150px;
+    border: 2px solid black;
+}
+.calculator{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
